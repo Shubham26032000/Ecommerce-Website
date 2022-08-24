@@ -4,4 +4,4 @@ Technology used
 #Frontend
  HTML, CSS, JavaScript
 #Backend
- Node.js
+ Node.js MongoDb
